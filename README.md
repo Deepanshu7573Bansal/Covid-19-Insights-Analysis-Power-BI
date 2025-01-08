@@ -1,4 +1,3 @@
-[github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 # Covid 19 Insights Analysis Power BI
 
 Covid-19 Insights Analysis is one of the most popular project ideas among individuals. The project aims to thoroughly overview the Covid-19 pandemic's essential parameters, the latest situation, and detailed country-level evaluations. 
