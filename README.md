@@ -23,7 +23,7 @@ This project can focus on create dashboard to analysis covid 19 dataset by key m
 6. Create column chart to show top 6 country/region has highest total cases.
 7. Create column chart to show low 6 country/region has lowest total cases(it means those 6 country which has lowest cases).
 
-## Key Business Questions to Explore
+## Key Business Questions to Explore:
 1. How do case numbers differ across countries?
 2. What are the recovery rates and mortality rates by region?
 3. Which countries have successfully reduced case numbers?
